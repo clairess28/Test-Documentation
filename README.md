@@ -6,7 +6,7 @@
 
 3) [Bug reports](https://docs.google.com/spreadsheets/d/1qADx7wUvX-WoN9o6LsdAZH5Lr-XL7XIIn0ppanvjI6I/edit#gid=1749485092) for the main page and user's page for [users.bugred.ru](http://users.bugred.ru/)
 
-4) [Bug reports](https://docs.google.com/spreadsheets/d/1RZPa_Xh0w-Kq1ATBD-8NQyW4S8eG0OnTKD8QVcbryLk/edit?usp=sharing) for the test e-commerce site [qatest-dev.indvp.com](https://qatest-dev.indvp.com/)
+4) [Bug reports](https://docs.google.com/spreadsheets/d/1RZPa_Xh0w-Kq1ATBD-8NQyW4S8eG0OnTKD8QVcbryLk/edit?usp=sharing) for e-commerce site [qatest-dev.indvp.com](https://qatest-dev.indvp.com/)
 
 5) [Bug report](https://docs.google.com/spreadsheets/d/1zVMbPAjke1_zYcVzcYEMVACfjR4SqWmIfPx9KyYP_70/edit#gid=0) for mobile allpication with the facial recognition function
 
